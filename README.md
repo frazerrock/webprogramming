@@ -1,3 +1,9 @@
-This repository is created by Frazer Cunningham.
+# Web Programming - F28WP-
 
-If you wish to use any of the code in this repository feel free to do so.
+This repository will be developed over a 12 week period with the content of the Web Programming course to show understanding of my use of using a github repository along with its features such as commits, pulls, etc...
+
+## Disclaimer
+Feel free to use any of the assets found within this repository for your own use / projects.
+
+## Author
+This repository was created by Frazer Cunningham @ HWU.

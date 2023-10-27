@@ -13,14 +13,26 @@ header {
 nav {
     text-align: center;
     background-color: #333; /* Dark background color for the navigation menu */
+    height: 50px;
 }
 nav a {
     color: #fff; /* Text color for navigation links */
     text-decoration: none;
     padding: 10px 20px;
+    border-radius: 10%;
+    background-color: #3f3f3f;
+    line-height: 50px;
 }
 nav a:hover {
-    background-color: #008080; /* Turquoise/Teal background color on hover */
+    background-color: #1d1d1d;
+    transition: background-color 0.3s;
+    cursor: pointer;
+    transform: scale(0.9);
+}
+nav a:active {
+    background-color: aqua;
+    /* transform: scale(0.9);
+    transition: transform 0.3; */       /* TBD!! */
 }
 .container {
     max-width: 800px;
